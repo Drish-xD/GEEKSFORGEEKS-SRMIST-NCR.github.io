@@ -4,7 +4,6 @@
 
 ![image](https://raw.githubusercontent.com/GEEKSFORGEEKS-SRMIST-NCR/GEEKSFORGEEKS-SRMIST-NCR.github.io/main/src/images/Screenshot.webp)
 
-<h1 align="center">HacktoberFest Accepted</h1>
 <h2 align="center">
 <a href="https://gfg-ncr.netlify.app/" target="_blank">Visit Our Website💻</a>
 </h2>
